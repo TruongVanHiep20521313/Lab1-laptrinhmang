@@ -46,5 +46,11 @@ namespace WinFormsApp1
             Bai5 frm = new Bai5();  
             frm.ShowDialog();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Bai6 frm = new Bai6();
+            frm.ShowDialog();
+        }
     }
 }
